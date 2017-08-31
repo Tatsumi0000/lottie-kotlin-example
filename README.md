@@ -1,2 +1,2 @@
 # lottie-kotlin-example
-A very simple Lottie in Kotlin
+A very simple Example Lottie Library in Kotlin
